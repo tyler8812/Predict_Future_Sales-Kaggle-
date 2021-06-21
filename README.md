@@ -1,6 +1,8 @@
 Just run preProcessing.py then you will probably get a temp.pkl file(preProcessing the data).
+Because the temp.pkl file is too big for github, so here is the downloaded link(https://drive.google.com/file/d/1tlPYWSzpad3wX3Lwaf99WdnZTUKI4ZTs/view?usp=sharing).
 
 Then just run trainLGBM.py. You will probably get a model file and submission.csv that can calculate score on Kaggle. The score is about 0.85991.
+Because the model file is too big for github, so here is the downloaded link(https://drive.google.com/file/d/1pT21zdgvFY7PapN5HHxcmYa4bsqhgZK4/view?usp=sharing).
 
 And for more works I did, can take a look at the below link in Kaggle.
 Train a simple LGBM:
